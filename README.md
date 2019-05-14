@@ -1,2 +1,0 @@
-# TermProject
-Term Project
